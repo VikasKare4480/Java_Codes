@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcbb54d-b63e-439d-96d0-2480403db1b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/ThreadGroupDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/_1_ThreadGroup1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/_2_DemoThreadGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/_3_ThreadGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/Thread Group/_5_ThreadGroupDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/ThreadMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread Class/ThreadMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/ThreadPool/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/ThreadPool/ThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/ThreadPool/Try1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread Class/ThreadPool/_1_ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Core Java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Core Java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2TEksB1iMH2auO8Bf4YKBKkTHTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcbb54d-b63e-439d-96d0-2480403db1b7" name="Changes" comment="" />
+      <created>1690615836881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690615836881</updated>
+    </task>
+    <servers />
+  </component>
+</project>
