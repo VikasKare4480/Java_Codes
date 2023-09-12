@@ -25,7 +25,9 @@ class Demo {
 
             obj.m2(); // NullPointerException
 
-            if(obj == null) 
+            if(obj == null) {
+                
+            }
                 
         } catch (ArithmeticException e) {
 
